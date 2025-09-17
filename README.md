@@ -41,13 +41,6 @@ Study the role of cholesterol, blood pressure, and heart rate
 Identify patterns in ECG, angina, and other indicators
 
 
-## Project Workflow
-
-Data cleaning & preparation
-
-Exploratory Data Analysis (EDA)
-
-
 ### Tools
 
 * Python
